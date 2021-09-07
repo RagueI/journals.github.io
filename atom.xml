@@ -2,11 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://raguei.github.io/journals.github.io/</id>
     <title>My Blog</title>
-    <updated>2021-09-07T17:11:32.172Z</updated>
+    <updated>2021-09-07T17:14:32.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://raguei.github.io/journals.github.io/"/>
     <link rel="self" href="https://raguei.github.io/journals.github.io/atom.xml"/>
-    <subtitle>&lt;span id=&quot;runtime_span&quot;&gt;&lt;/span&gt; &lt;script type=&quot;text/javascript&quot;&gt;function show_runtime(){window.setTimeout(&quot;show_runtime()&quot;,1000);X=new Date(&quot;9/1/2021 00:00:00&quot;);Y=new Date();T=(Y.getTime()-X.getTime());M=24*60*60*1000;a=T/M;A=Math.floor(a);b=(a-A)*24;B=Math.floor(b);c=(b-B)*60;C=Math.floor((b-B)*60);D=Math.floor((c-C)*60);runtime_span.innerHTML=&quot;网站已运行&quot;+A+&quot;天&quot;+B+&quot;小时&quot;+C+&quot;分&quot;+D+&quot;秒&quot;}show_runtime();&lt;/script&gt;</subtitle>
     <logo>https://raguei.github.io/journals.github.io/images/avatar.png</logo>
     <icon>https://raguei.github.io/journals.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, My Blog</rights>
