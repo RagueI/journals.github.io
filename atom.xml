@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://raguei.github.io/journals.github.io/</id>
     <title>My Blog</title>
-    <updated>2021-09-07T17:38:28.955Z</updated>
+    <updated>2021-09-07T18:20:13.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://raguei.github.io/journals.github.io/"/>
     <link rel="self" href="https://raguei.github.io/journals.github.io/atom.xml"/>
     <logo>https://raguei.github.io/journals.github.io/images/avatar.png</logo>
     <icon>https://raguei.github.io/journals.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, My Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[安卓 - 剪贴板Parser]]></title>
+        <id>https://raguei.github.io/journals.github.io/post/programming-biliparser/</id>
+        <link href="https://raguei.github.io/journals.github.io/post/programming-biliparser/">
+        </link>
+        <updated>2021-09-07T03:19:10.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>targetSdk: ^5.0<br>
+<br></p>
+</blockquote>
+<h2 id="扫描剪贴板">扫描剪贴板</h2>
+<h2 id="对b站短链接进行解析还原">对B站短链接进行解析还原</h2>
+<h2 id="用正则选择标准分享链接剔除跟踪参数">用正则选择标准分享链接，剔除跟踪参数</h2>
+<h2 id="重新返回或重写剪贴板">重新返回，或重写剪贴板</h2>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[摄影日志 - 猫]]></title>
         <id>https://raguei.github.io/journals.github.io/post/photography/</id>
