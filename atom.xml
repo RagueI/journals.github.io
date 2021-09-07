@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://raguei.github.io/journals.github.io/</id>
     <title>My Blog</title>
-    <updated>2021-09-07T20:08:22.756Z</updated>
+    <updated>2021-09-07T20:10:51.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://raguei.github.io/journals.github.io/"/>
     <link rel="self" href="https://raguei.github.io/journals.github.io/atom.xml"/>
@@ -10,11 +10,11 @@
     <icon>https://raguei.github.io/journals.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, My Blog</rights>
     <entry>
-        <title type="html"><![CDATA[安卓 - 剪贴板Parser]]></title>
+        <title type="html"><![CDATA[安卓 - 第三方跟踪链接Parser]]></title>
         <id>https://raguei.github.io/journals.github.io/post/programming-biliparser/</id>
         <link href="https://raguei.github.io/journals.github.io/post/programming-biliparser/">
         </link>
-        <updated>2021-09-06T12:19:10.000Z</updated>
+        <updated>2021-09-05T21:19:10.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
 <p>targetSdk: ^5.0<br>
 <br></p>
