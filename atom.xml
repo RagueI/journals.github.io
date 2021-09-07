@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://raguei.github.io/journals.github.io/</id>
     <title>My Blog</title>
-    <updated>2021-09-07T04:51:39.734Z</updated>
+    <updated>2021-09-07T04:56:36.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://raguei.github.io/journals.github.io/"/>
     <link rel="self" href="https://raguei.github.io/journals.github.io/atom.xml"/>
@@ -15,8 +15,9 @@
         <id>https://raguei.github.io/journals.github.io/post/photography/</id>
         <link href="https://raguei.github.io/journals.github.io/post/photography/">
         </link>
-        <updated>2021-09-06T13:26:27.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="hello-world">Hello world</h1>
+        <updated>2021-09-05T22:26:27.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="猫">猫</h2>
+<figure data-type="image" tabindex="1"><img src="https://raguei.github.io/journals.github.io//post-images/1630990575425.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
@@ -24,11 +25,8 @@
         <id>https://raguei.github.io/journals.github.io/post/photography-outdoor/</id>
         <link href="https://raguei.github.io/journals.github.io/post/photography-outdoor/">
         </link>
-        <updated>2021-01-18T13:34:01.000Z</updated>
-        <summary type="html"><![CDATA[<h2 id="雪">雪</h2>
-]]></summary>
+        <updated>2021-01-17T21:34:01.000Z</updated>
         <content type="html"><![CDATA[<h2 id="雪">雪</h2>
-<!-- more -->
 <p><img src="https://raguei.github.io/journals.github.io//post-images/1630989384071.jpg" alt="" loading="lazy"><br>
 <br><br>
 <img src="https://raguei.github.io/journals.github.io//post-images/1630989492881.jpg" alt="" loading="lazy"><br>
