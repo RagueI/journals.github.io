@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://raguei.github.io/journals.github.io/</id>
     <title>My Blog</title>
-    <updated>2021-09-07T04:26:35.304Z</updated>
+    <updated>2021-09-07T04:30:41.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://raguei.github.io/journals.github.io/"/>
     <link rel="self" href="https://raguei.github.io/journals.github.io/atom.xml"/>
@@ -11,12 +11,30 @@
     <icon>https://raguei.github.io/journals.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, My Blog</rights>
     <entry>
+        <title type="html"><![CDATA[摄影日志 - 日常]]></title>
+        <id>https://raguei.github.io/journals.github.io/post/she-ying-ri-zhi-ri-chang/</id>
+        <link href="https://raguei.github.io/journals.github.io/post/she-ying-ri-zhi-ri-chang/">
+        </link>
+        <updated>2021-09-06T13:27:58.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="日常">日常</h1>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[摄影日志 - 猫]]></title>
         <id>https://raguei.github.io/journals.github.io/post/photography/</id>
         <link href="https://raguei.github.io/journals.github.io/post/photography/">
         </link>
         <updated>2021-09-06T13:26:27.000Z</updated>
         <content type="html"><![CDATA[<h1 id="hello-world">Hello world</h1>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[摄影日志 - 日常]]></title>
+        <id>https://raguei.github.io/journals.github.io/post/photography-daily/</id>
+        <link href="https://raguei.github.io/journals.github.io/post/photography-daily/">
+        </link>
+        <updated>2021-01-10T13:28:40.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="日常">日常</h1>
 ]]></content>
     </entry>
     <entry>
