@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://raguei.github.io/journals.github.io/</id>
     <title>My Blog</title>
-    <updated>2021-09-17T05:48:10.608Z</updated>
+    <updated>2021-09-17T05:50:45.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://raguei.github.io/journals.github.io/"/>
     <link rel="self" href="https://raguei.github.io/journals.github.io/atom.xml"/>
@@ -70,6 +70,31 @@
 <img src="https://raguei.github.io/journals.github.io//post-images/1630990842811.jpg" alt="" loading="lazy"><br>
 <br><br>
 <img src="https://raguei.github.io/journals.github.io//post-images/1630990857614.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://raguei.github.io/journals.github.io/post/about/</id>
+        <link href="https://raguei.github.io/journals.github.io/post/about/">
+        </link>
+        <updated>2021-08-31T16:41:52.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<!-- more -->
+<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>自己的小博客</p>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<blockquote>
+<p>知道这个网站的人，一定知道我的真实身份<br>
+不懂的跟你说了你也不懂，涉及到很多人的利益，总之懂得都懂</p>
+</blockquote>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<h2 id="联系我呀">📬 联系我呀</h2>
+<blockquote>
+<p>能来到这，那你就肯定有办法找我</p>
+</blockquote>
 ]]></content>
     </entry>
     <entry>
