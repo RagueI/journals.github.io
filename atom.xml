@@ -2,13 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://raguei.github.io/journals.github.io/</id>
     <title>My Blog</title>
-    <updated>2021-09-19T04:28:59.516Z</updated>
+    <updated>2021-09-19T04:34:21.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://raguei.github.io/journals.github.io/"/>
     <link rel="self" href="https://raguei.github.io/journals.github.io/atom.xml"/>
     <logo>https://raguei.github.io/journals.github.io/images/avatar.png</logo>
     <icon>https://raguei.github.io/journals.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, My Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[摄影日志 - 抽象 材质]]></title>
+        <id>https://raguei.github.io/journals.github.io/post/abstract-material/</id>
+        <link href="https://raguei.github.io/journals.github.io/post/abstract-material/">
+        </link>
+        <updated>2021-09-18T13:31:48.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://raguei.github.io/journals.github.io//post-images/1632025924674.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://raguei.github.io/journals.github.io//post-images/1632025929832.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://raguei.github.io/journals.github.io//post-images/1632025934499.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Calyx OS]]></title>
         <id>https://raguei.github.io/journals.github.io/post/calyx-os/</id>
@@ -73,36 +84,6 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[关于]]></title>
-        <id>https://raguei.github.io/journals.github.io/post/about/</id>
-        <link href="https://raguei.github.io/journals.github.io/post/about/">
-        </link>
-        <updated>2021-08-29T19:41:52.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<!-- more -->
-<blockquote>
-<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
-</blockquote>
-<br>
-<h2 id="关于本站">🏠 关于本站</h2>
-<p>自己的小博客</p>
-<h2 id="博主是谁">👨‍💻 博主是谁</h2>
-<blockquote>
-<p>知道这个网站的人，一定知道我的真实身份<br>
-不懂的跟你说了你也不懂，涉及到很多人的利益，总之懂得都懂</p>
-</blockquote>
-<!-- ## ⛹ 兴趣爱好 -->
-<h2 id="联系我呀">📬 联系我呀</h2>
-<blockquote>
-<p>能来到这，那你就肯定有办法找我</p>
-</blockquote>
-<h2 id="我的摄影主页">📸我的摄影主页</h2>
-<blockquote>
-<p><a href="https://time-studio.tuchong.com/">图虫</a></p>
-</blockquote>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Blog1 - 长记性了，下次一定备份]]></title>
         <id>https://raguei.github.io/journals.github.io/post/blog1/</id>
         <link href="https://raguei.github.io/journals.github.io/post/blog1/">
@@ -136,8 +117,10 @@
         <id>https://raguei.github.io/journals.github.io/post/photography-daily/</id>
         <link href="https://raguei.github.io/journals.github.io/post/photography-daily/">
         </link>
-        <updated>2021-01-10T13:28:40.000Z</updated>
+        <updated>2021-01-09T21:28:40.000Z</updated>
         <content type="html"><![CDATA[<h1 id="日常">日常</h1>
+<figure data-type="image" tabindex="1"><img src="https://raguei.github.io/journals.github.io//post-images/1632026032734.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://raguei.github.io/journals.github.io//post-images/1632026038903.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
