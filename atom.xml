@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://raguei.github.io/journals.github.io/</id>
     <title>My Blog</title>
-    <updated>2021-09-27T04:03:09.628Z</updated>
+    <updated>2021-09-27T04:15:37.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://raguei.github.io/journals.github.io/"/>
     <link rel="self" href="https://raguei.github.io/journals.github.io/atom.xml"/>
@@ -14,9 +14,9 @@
         <id>https://raguei.github.io/journals.github.io/post/javascript/</id>
         <link href="https://raguei.github.io/journals.github.io/post/javascript/">
         </link>
-        <updated>2021-09-25T06:51:29.000Z</updated>
+        <updated>2021-09-24T15:51:29.000Z</updated>
         <content type="html"><![CDATA[<br>
-<pre><code>window.open('https://www.google.com', '_blank', 'toolbar=0,location=0,menubar=0')
+<pre><code>window.open('https://www.google.com', '_blank', 'toolbar=0,location=0,menubar=0' &quot;&quot;)
 </code></pre>
 <figure data-type="image" tabindex="1"><img src="https://raguei.github.io/journals.github.io//post-images/1632715013215.png" alt="" loading="lazy"></figure>
 ]]></content>
