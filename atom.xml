@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://raguei.github.io/journals.github.io/</id>
     <title>My Blog</title>
-    <updated>2021-09-29T03:12:54.515Z</updated>
+    <updated>2021-09-29T03:21:20.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://raguei.github.io/journals.github.io/"/>
     <link rel="self" href="https://raguei.github.io/journals.github.io/atom.xml"/>
@@ -57,11 +57,11 @@
         <id>https://raguei.github.io/journals.github.io/post/just-for-you/</id>
         <link href="https://raguei.github.io/journals.github.io/post/just-for-you/">
         </link>
-        <updated>2021-09-16T19:04:51.000Z</updated>
+        <updated>2021-09-16T04:04:51.000Z</updated>
         <content type="html"><![CDATA[<br>
-<h2 id="点此在星图中查看你的星星"><a href="https://star-register.org/show?id=11399886">点此在星图中查看你的星星</a></h2>
+<p><a href="https://star-register.org/show?id=11399886">点此在星图中查看你的星星</a></p>
 <blockquote>
-<h2 id="从现在开始这颗星星就属于你名下啦">从现在开始，这颗星星就属于你名下啦</h2>
+<p>从现在开始，这颗星星就属于你名下啦</p>
 </blockquote>
 <figure data-type="image" tabindex="1"><img src="https://raguei.github.io/journals.github.io//post-images/1632884721279.png" alt="" loading="lazy"></figure>
 <h3 id="之后pdf我会发给你">之后pdf我会发给你</h3>
