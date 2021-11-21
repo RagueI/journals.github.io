@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://raguei.github.io/journals.github.io/</id>
     <title>My Blog</title>
-    <updated>2021-09-29T04:14:54.046Z</updated>
+    <updated>2021-11-21T05:01:12.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://raguei.github.io/journals.github.io/"/>
     <link rel="self" href="https://raguei.github.io/journals.github.io/atom.xml"/>
@@ -50,28 +50,6 @@
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://raguei.github.io/journals.github.io//post-images/1632025924674.jpg" alt="" loading="lazy"></figure>
 <figure data-type="image" tabindex="2"><img src="https://raguei.github.io/journals.github.io//post-images/1632025929832.jpg" alt="" loading="lazy"></figure>
 <figure data-type="image" tabindex="3"><img src="https://raguei.github.io/journals.github.io//post-images/1632025934499.jpg" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Just For You]]></title>
-        <id>https://raguei.github.io/journals.github.io/post/just-for-you/</id>
-        <link href="https://raguei.github.io/journals.github.io/post/just-for-you/">
-        </link>
-        <updated>2021-09-15T13:04:51.000Z</updated>
-        <content type="html"><![CDATA[<br>
-<blockquote>
-<p>从现在开始，这颗星星就属于你名下啦</p>
-</blockquote>
-<figure data-type="image" tabindex="1"><img src="https://raguei.github.io/journals.github.io//post-images/1632884721279.png" alt="" loading="lazy"></figure>
-<p><a href="https://star-register.org/show?id=11399886">点此在星图中查看你的星星</a></p>
- <br>
- <br>
- <br>
- <br> 
- <br>
- <br>
- <br>
-<h3 id="之后pdf我会发给你">之后pdf我会发给你</h3>
 ]]></content>
     </entry>
     <entry>
@@ -164,6 +142,17 @@
 <br><br>
 <img src="https://raguei.github.io/journals.github.io//post-images/1630989492881.jpg" alt="" loading="lazy"><br>
 <br></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[摄影日志 - 日常]]></title>
+        <id>https://raguei.github.io/journals.github.io/post/photography-daily/</id>
+        <link href="https://raguei.github.io/journals.github.io/post/photography-daily/">
+        </link>
+        <updated>2021-01-09T21:28:40.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="日常">日常</h1>
+<figure data-type="image" tabindex="1"><img src="https://raguei.github.io/journals.github.io//post-images/1632026032734.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://raguei.github.io/journals.github.io//post-images/1632026038903.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
